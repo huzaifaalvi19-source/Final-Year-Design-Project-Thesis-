@@ -1,16 +1,44 @@
-# Final-Year-Design-Project-Thesis-
-Design and Development of an Innovative Extrusion Machine for Recycleable Filament
-<br>
-## **Project Description**
-<br> 
-This project focuses on the design and development of a compact, low-cost extrusion machine for recycling PLA waste into reusable 3D printing filament. The system was developed to address plastic waste generated from failed 3D prints and discarded filament while supporting a more sustainable and localized approach to additive manufacturing.
-<br>
-The project covers the complete development process, from concept development and CAD modeling to manufacturing, system integration, and experimental validation. The extrusion system consists of a 460 mm long barrel with a 32 mm outer diameter, a 1.7 mm nozzle, 150–200 W cartridge heaters, and a motor-driven pulling mechanism for producing recycled filament.
-<br>
-A key feature of the machine is its real-time filament diameter control system. A 49E Hall-effect sensor is used to monitor the filament/puller system, while an L298N motor driver controls the puller motor. By adjusting the pulling speed, the system is designed to maintain the produced filament within a target dimensional tolerance of approximately ±0.05 mm.
-<br>
-The machine was also evaluated through CFD analysis, steady-state thermal analysis, structural analysis, and experimental testing to investigate temperature distribution, mechanical behavior, extrusion consistency, and overall system stability. Experimental trials were used to assess the dimensional consistency and quality of the recycled PLA filament produced by the prototype.
-<br>
-The project demonstrates how failed PLA prints and waste filament can be converted back into usable 3D printing material, contributing to a more circular approach to additive manufacturing. It also provides a foundation for further development, including automated filament winding, IoT-based monitoring, improved process control, and the recycling of additional thermoplastic materials such as ABS.
-<br>
-Overall, the prototype combines mechanical design, manufacturing, automation, sensing, thermal analysis, and sustainable engineering into a practical system for localized recycling and sustainable 3D printing.
+![Recycling into possibility.](assets/banner.svg)
+
+# Recyclable Filament Extrusion Machine
+
+**Design and Development of an Innovative Extrusion Machine for Recyclable Filament**
+
+A final-year industrial engineering project at UET Taxila, Pakistan, exploring how waste PLA can be processed into reusable 3D-printing filament.
+
+## The engineering challenge
+
+Failed prints and discarded filament create material waste. This project developed a compact extrusion prototype that brings together mechanical design, heating, material transport, sensing, and puller-speed control.
+
+## What the project covers
+
+- **Design and fabrication:** concept development, CAD modeling, component selection, manufacturing, and assembly.
+- **System integration:** heated barrel, extrusion nozzle, motor-driven pulling mechanism, and sensor-assisted control.
+- **Engineering analysis:** CFD, steady-state thermal and structural analysis, alongside prototype testing.
+- **Process evaluation:** filament consistency, temperature distribution, and machine stability.
+
+| Design feature | Specification / purpose |
+| --- | --- |
+| Barrel | 460 mm length; 32 mm outer diameter |
+| Nozzle | 1.7 mm |
+| Cartridge heaters | 150–200 W |
+| Sensing and actuation | 49E Hall-effect sensor; L298N motor driver |
+| Dimensional objective | Approximately ±0.05 mm target tolerance |
+
+The tolerance above is a **design target**, not a claim that every trial achieved it. The thesis provides the experimental context and evaluation.
+
+## Explore the work
+
+| Resource | What you will find |
+| --- | --- |
+| [Project thesis](https://github.com/huzaifaalvi19-source/Final-Year-Design-Project-Thesis-/blob/main/FYDP%20Thesis%20pt.pdf) | Design, analysis, development, and testing |
+| [Extrusion parameter optimization](https://github.com/huzaifaalvi19-source/Final-Year-Design-Project-Thesis-/tree/main/Linked%20Semester%20Projects%20with%20FYDP/Design%20of%20Experiment) | Full-factorial DOE, ANOVA, and regression in Minitab |
+| [Filament X business concept](https://github.com/huzaifaalvi19-source/Final-Year-Design-Project-Thesis-/tree/main/Linked%20Semester%20Projects%20with%20FYDP/Entrepreneurship) | Circular-economy concept, costing, and business planning |
+
+## Further development
+
+Potential extensions include automated winding, better process monitoring, improved control, and evaluation of other thermoplastics. These are future directions rather than completed features.
+
+---
+
+[Portfolio](https://huzaifaalvi19-source.github.io/Personal-Portfolio/) · [Research](https://github.com/huzaifaalvi19-source/Research-Publications) · [Projects](https://github.com/huzaifaalvi19-source/Selected-Bsc-Industrial-Engineering-Semester-Projects) · [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-c1a2t3) · [ORCID](https://orcid.org/0009-0008-8113-1315)
