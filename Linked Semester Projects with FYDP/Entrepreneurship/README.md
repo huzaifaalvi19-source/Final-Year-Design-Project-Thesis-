@@ -1,16 +1,19 @@
-# Filament X: An Approach towards Sustainability
-# **Project Overview**
-<br>
-Filament X is a business concept developed to make 3D printing more affordable and sustainable in Pakistan by producing high-quality PLA filament from recycled PLA waste. The project addresses the high cost of conventional filament and limited recycling options by applying a circular economy model to recover waste material and convert it into new 3D-printing filament.
-<br>
-The proposed recycled filament was priced at PKR 3,356.01/kg, making it more accessible to students, educational institutions, and businesses. The project also explored smart reverse-engineering, resource optimization, marketing strategies, partnerships, and financial planning to develop a scalable business model.
-<br><br>
-Key Areas<br>
-Sustainable 3D Printing<br>
-PLA Waste Recycling<br>
-Circular Economy<br>
-Business Model Development<br>
-Cost & Resource Optimization<br>
-Marketing & Partnerships<br>
-Financial & Break-Even Analysis<br>
-Additive Manufacturing<br>
+# Filament X: A Circular-Economy Business Concept
+
+A coursework business proposal for producing 3D-printing filament from recycled PLA waste in Pakistan.
+
+## Concept
+
+Recover waste PLA and convert it into filament for students, educational institutions, and businesses. The proposal connects material reuse with affordability, resource planning, marketing, and financial analysis.
+
+## Scope
+
+- Recycled-filament value proposition and target customers.
+- Cost estimates, pricing, and break-even considerations.
+- Marketing, partnerships, and resource planning.
+
+The report's proposed price of **PKR 3,356.01/kg** is a historical project estimate, not a current commercial quotation. Filament X is presented as a business concept rather than an operating company.
+
+[Read the business proposal](entrepreneur%20report%20%281%29%2C%20%281%29.pdf)
+
+[← Supporting studies](../README.md)
