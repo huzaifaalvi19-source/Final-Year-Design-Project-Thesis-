@@ -1,17 +1,17 @@
-# Optimizing the Extrusion Machine Parameters for PLA Using Full Factorial Design Approach 
-# **Project Overview**
-<br>
-This project focused on optimizing extrusion machine parameters for producing consistent PLA 3D-printing filament using a Full Factorial Design of Experiments (DOE). The study investigated the effects of die temperature, roller speed, spindle speed, and inlet temperature on filament diameter.
-<br>
-Experimental results were analyzed using Minitab, including regression modeling and ANOVA, to identify the parameters with the greatest influence on filament size. The analysis showed that spindle speed and roller speed had the strongest effects, while die temperature had a moderate influence and inlet temperature had the least effect.
-<br>
-The project demonstrated how DOE and statistical analysis can be used to reduce filament variability, improve extrusion consistency, and support more sustainable PLA filament production.
-<br><br>
-Key Areas<br>
-Full Factorial DOE<br>
-PLA Filament Extrusion<br>
-Process Parameter Optimization<br>
-ANOVA & Regression Analysis<br>
-Minitab<br>
-Additive Manufacturing<br>
-Sustainable Manufacturing<br>
+# Optimizing PLA Extrusion Parameters
+
+A full-factorial design-of-experiments study examining how extrusion settings affect filament diameter.
+
+## Variables and analysis
+
+| Inputs | Response and analysis |
+| --- | --- |
+| Die temperature, roller speed, spindle speed, inlet temperature | Filament diameter; regression and ANOVA in Minitab |
+
+The project reports the strongest effects from spindle and roller speeds, a moderate effect from die temperature, and the smallest effect from inlet temperature under the investigated conditions.
+
+[Read the optimization report](Optimizing%20Extrusion%20Machine%20Parameters%20for%20PLA.pdf)
+
+**Methods:** full-factorial DOE · Minitab · ANOVA · regression · process optimization
+
+[← Supporting studies](../README.md)
